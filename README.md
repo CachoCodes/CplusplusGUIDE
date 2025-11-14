@@ -1,5 +1,5 @@
 # CplusplusGUIDE
-#THIS IS STILL ON CONSTRUCTION \n
+#THIS IS STILL ON CONSTRUCTION 
 
 
 #Have you ever wondered if there was and big ass CheatSheet for some lenguages well
